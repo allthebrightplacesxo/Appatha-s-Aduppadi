@@ -1,0 +1,111 @@
+/* first slide */
+#title{
+  background-color: #FFE15D;
+  font-family: "Cardo";
+  line-height: 1.5;
+  padding: 7%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.carousel-item{
+  margin-left: 230px;
+  width: auto;
+  max-height: 400px;
+  /* background-color: #FFE15D; */
+}
+
+.nav-item{
+  color: #000;
+}
+
+/* combos */
+
+#combos{
+  font-family: "Cardo";
+  padding: 0% 15% 7% 15%;
+  line-height: 2;
+}
+
+.combos-heading{
+  padding: 7% 7% 0%;
+  font-family: "Cardo";
+}
+
+.combos{
+  padding: 5%;
+  width: 75%;
+}
+
+/* best-seller */
+
+#best-seller{
+  background-color: #CEEDC7;
+  font-family: "Cardo";
+  padding: 3% 15% 0% 15%;
+  line-height: 2;
+}
+
+.best-seller-heading{
+  font-family: "Cardo";
+  background-color: #CEEDC7;
+  margin-bottom: 0;
+  padding: 7% 15% 0% 15%;
+}
+
+.palagaram{
+  color: #fff;
+  position: relative;
+  top: 300px;
+}
+
+.sarbath{
+ position: relative;
+ left: 800px;
+ bottom: 280px;
+
+}
+
+.suji{
+  position: relative;
+  left: 395px;
+  top: 50px;
+  
+}
+
+.vada{
+  position: relative;
+  left: 800px;
+  bottom: 90px;
+  
+}
+
+.payasam{
+  position: relative;
+  bottom: 465px;
+  left: 800px;
+}
+
+.bs-img{
+  width: 25%;
+}
+
+.ctacta{
+  width: 3.5%;
+  margin: 100px;
+  
+}
+
+.cus{
+  margin-top: 0px;
+  padding: 7% 7% 0%;
+}
+
+#cta{
+  font-family: Cardo;
+}
